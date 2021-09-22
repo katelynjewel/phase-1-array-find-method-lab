@@ -45,7 +45,7 @@ describe('superbowlWin(record)', function () {
     { year: "1977", result: "N/A"},
     { year: "1976", result: "N/A"},
     { year: "1975", result: "N/A"},
-    { year: "1974", result: "N/A"},
+    { year: "1974", result: "W"},
     { year: "1973", result: "N/A"},
     { year: "1972", result: "N/A"},
     { year: "1971", result: "N/A"},
